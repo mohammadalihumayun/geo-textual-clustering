@@ -301,20 +301,4 @@ for a in range(1):#len(spwt_d)
 # In[20]:
 
 
-'''
-dataload=cali
-lentext=12930
-#cali,world]
-#12931
-textdata,spacdata=dataload()                        
-import matplotlib.pyplot as plt
-for i in range(lentext):
-    #plt.scatter(spacdata[i,0],spacdata[i,1])
-    plt.scatter(spacdata[i,1],spacdata[i,0]) # for california
-
-#plt.title('world')
-plt.title('california')
-plt.xlabel("longitude")
-plt.ylabel("latitude")
-'''
 
