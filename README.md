@@ -3,8 +3,7 @@
 Code for following paper
 
 ```
-J. Shuja, M. A. Humayun, W. Alasmary, H. Sinky, E. Alanazi and M. K. Khan, "Resource Efficient Geo-Textual Hierarchical Clustering Framework for Social IoT Applications," in IEEE Sensors Journal, vol. 21, no. 22, pp. 25114-25122, 15 Nov.15, 2021, doi: 10.1109/JSEN.2021.3060953.
-
+Shuja, Junaid, Mohammad Ali Humayun, Waleed Alasmary, Hassan Sinky, Eisa Alanazi, and Muhammad Khurram Khan. "Resource efficient geo-textual hierarchical clustering framework for social iot applications." IEEE Sensors Journal 21, no. 22 (2021): 25114-25122.
 ```
 
 Please contanct following for any queries:
